@@ -1,65 +1,50 @@
-# 👋 Hi, I'm Ritesh Kumar
+# 👋 Hi, I’m Ritesh Kumar
 
-## 🚀 Frontend Developer | Angular • React • Tailwind | UI Engineering & Scalable Web Apps
+**Frontend Engineer | React • Angular • TypeScript**
 
-Crafting seamless and high-performing web applications using **modern web technologies** and **Angular frameworks**. Passionate about delivering impactful solutions that combine functionality, performance, and aesthetics.
+I’m a results-driven Frontend Engineer with **2+ years of experience** building high-performance, user-centric web applications. I thrive in fast-moving teams where clean architecture, scalability, and precision actually matter.
+
+### 🚀 What I Do
+
+* Build **responsive, maintainable interfaces** using React, and Angular.
+* Architect **modular frontends** that scale with TypeScript, Tailwind CSS, and component-driven design.
+* Integrate **REST APIs** and optimize performance to keep users (and Lighthouse scores) happy.
+* Drive **UI migrations and Angular upgrades**, improving load time and developer efficiency.
+
+### 🔑 Highlights
+
+* Delivered **Angular version upgrades (v12→20)** improving stability and reducing build times.
+* Created **interactive reporting dashboards** that cut analysis time by 20%.
+* Developed **reusable UI component libraries**, speeding up feature delivery across teams.
+* Collaborated across design, backend, and QA to ship production-ready frontends on time.
+
+### 💡 Currently
+
+* Expanding expertise in **React** and **Next.js** through real-world projects.
+* Exploring **state management best practices** (Redux Toolkit, Context API, NgRx, RxJS).
+* Focused on writing **modular, performant, and accessible code** for long-term maintainability.
+
+### 🧰 Tech Stack
+
+**Frontend:** React, Angular (12–20), TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI
+**State Management:** Redux, Context API, RxJS, NgRx
+**Tools & Platforms:** Git, Firebase, REST APIs, Vercel
 
 ---
 
-## 💡 About Me
-
-* 🌟 **Experienced Frontend Developer** with 2+ years of professional expertise in building scalable, maintainable, and responsive web applications.
-* 💻 Adept at leveraging **Angular 12/15**, **TypeScript**, and **JavaScript (ES6)** to create dynamic user experiences.
-* 🔗 Strong focus on **secure user authentication** and seamless frontend-backend integration.
-* 🔍 Enthusiastic about **debugging, optimizing application performance**, and adhering to coding best practices.
+📫 **Let’s Connect:**
+📧 [riteshkumar.dev2@gmail.com](mailto:riteshkumar.dev2@gmail.com) | 📞 +91-8210961014
+💼 [LinkedIn](https://www.linkedin.com/in/riteshkrdev) | 🌐[Twitter/X](https://www.x.com/in/riteshkrdev) |🌐 [Portfolio](#) 
 
 ---
+## 🌱 Quote to Inspire
 
-## 🛠️ Technical Summary
-
-### **Frontend Technologies**
-
-* **Languages & Frameworks**: HTML5, CSS3, JavaScript (ES6), TypeScript, Angular (12/14/15/17/18/19/20)
-* **UI Frameworks**: Bootstrap, Tailwind CSS, Angular Material, PrimeNG, React, Next.js
-* **State Management**: NgRx, RxJS
-
-### **Development & Collaboration Tools**
-
-* **Version Control**: Git, GitHub
-* **Debugging Tools**: Chrome Developer Tools
-* **Testing**: Playwright, Karma
-* **Agile Tools**: Jira
-
-
----
-
-## 🌟 Key Highlights
-
-✔ **Project Leadership**: Successfully led a **front-end team** in developing and delivering high-quality applications, ensuring secure user authentication.
-✔ **Code Reviews & Collaboration**: Conducted regular code reviews and collaborated with **QA and backend teams** for seamless project execution and delivery.
-✔ **Responsive Designs**: Delivered engaging and **responsive web interfaces**, leveraging **Tailwind CSS** and **Angular Material**.
-✔ **Optimization Expert**: Utilized advanced debugging tools like **Chrome DevTools** to troubleshoot issues and optimize performance.
-✔ **Continuous Learner**: Committed to exploring new technologies and methodologies for innovative and efficient solutions.
-
+> *"The only way to do great work is to love what you do."*
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ritshkr1\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritshkr1\&layout=compact\&theme=radical)
-
-
----
-
-## 📢 Let's Connect
-
-* 🌐 [LinkedIn](https://www.linkedin.com/in/ritsh)
-* 📧 **[riteshkumar.dev2@gmail.com](mailto:riteshkumar.dev2@gmail.com)**
-
----
-
-## 🌱 Quote to Inspire
-
-> *"The only way to do great work is to love what you do."*
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkrdev\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkrdev\&layout=compact\&theme=radical)
 
 ---
