@@ -26,7 +26,7 @@ I’m a results-driven Frontend Engineer with **2+ years of experience** buildin
 
 ### 🧰 Tech Stack
 
-**Frontend:** React, Angular (12–20), TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI
+**Frontend:** Angular (12–20), React, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI
 **State Management:** Redux, Context API, RxJS, NgRx
 **Tools & Platforms:** Git, Firebase, REST APIs, Vercel
 
@@ -39,7 +39,7 @@ I’m a results-driven Frontend Engineer with **2+ years of experience** buildin
 ---
 ## 🌱 Quote to Inspire
 
-> *"The only way to do great work is to love what you do."*
+> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*
 ---
 
 ## 📊 GitHub Stats
