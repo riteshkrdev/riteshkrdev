@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ritesh Kumar
 
-**Frontend Engineer | React • Angular • TypeScript**
+**Frontend Engineer | Angular • React • TypeScript**
 
 I’m a results-driven Frontend Engineer with **2 years of experience** building high-performance, user-centric web applications. I thrive in fast-moving teams where clean architecture, scalability, and precision actually matter.
 
@@ -46,6 +46,6 @@ I’m a results-driven Frontend Engineer with **2 years of experience** building
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkrdev\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkrdev\&layout=compact\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=riteshkrdev&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riteshkrdev)](https://git.io/streak-stats)
 
 ---
