@@ -2,7 +2,7 @@
 
 **Frontend Engineer | React • Angular • TypeScript**
 
-I’m a results-driven Frontend Engineer with **2+ years of experience** building high-performance, user-centric web applications. I thrive in fast-moving teams where clean architecture, scalability, and precision actually matter.
+I’m a results-driven Frontend Engineer with **2 years of experience** building high-performance, user-centric web applications. I thrive in fast-moving teams where clean architecture, scalability, and precision actually matter.
 
 ### 🚀 What I Do
 
@@ -13,7 +13,7 @@ I’m a results-driven Frontend Engineer with **2+ years of experience** buildin
 
 ### 🔑 Highlights
 
-* Delivered **Angular version upgrades (v12→20)** improving stability and reducing build times.
+* Delivered **Angular version upgrades (v12+)** improving stability and reducing build times.
 * Created **interactive reporting dashboards** that cut analysis time by 20%.
 * Developed **reusable UI component libraries**, speeding up feature delivery across teams.
 * Collaborated across design, backend, and QA to ship production-ready frontends on time.
@@ -26,15 +26,15 @@ I’m a results-driven Frontend Engineer with **2+ years of experience** buildin
 
 ### 🧰 Tech Stack
 
-**Frontend:** Angular (12–20), React, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI
-**State Management:** Redux, Context API, RxJS, NgRx
+**Frontend:** Angular (v12+), React, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI
+**State Management:** Redux, Context API, RxJS, NgRx,
 **Tools & Platforms:** Git, Firebase, REST APIs, Vercel
 
 ---
 
 📫 **Let’s Connect:**
-📧 [riteshkumar.dev2@gmail.com](mailto:riteshkumar.dev2@gmail.com) | 📞 +91-8210961014
-💼 [LinkedIn](https://www.linkedin.com/in/riteshkrdev) | 🌐[Twitter/X](https://www.x.com/in/riteshkrdev) |🌐 [Portfolio](#) 
+📧 [ritesh.frontend@gmail.com](mailto:ritesh.frontend@gmail.com) | 📞 +91-8210961014
+💼 [LinkedIn](https://www.linkedin.com/in/riteshkrdev) | 🌐[Twitter/X](https://www.x.com/in/riteshkrdev) |🌐 [Portfolio](https://react-portfolio-sigma-roan.vercel.app/)
 
 ---
 ## 🌱 Quote to Inspire
@@ -46,5 +46,6 @@ I’m a results-driven Frontend Engineer with **2+ years of experience** buildin
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkrdev\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkrdev\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=riteshkrdev&theme=radical)
 
 ---
